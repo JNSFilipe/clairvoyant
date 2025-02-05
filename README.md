@@ -21,10 +21,18 @@ Using stock historical data, train a supervised learning algorithm with any comb
 
 <br>
 
-## Last Stable Release
+## ~~Last Stable Release~~
+⚠️ There are currently no stable builds of this project publish in PyPI. ⚠️
+
+<strike>
+
 ```bash
 pip install clairvoyant
 ```
+
+</strike>
+
+Any package there caomed from the [original project](https://github.com/anfederico/clairvoyant), now no longer maintained.
 
 ## Latest Development Changes
 ```bash
