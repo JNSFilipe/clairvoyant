@@ -2,8 +2,8 @@
 <p align="center"><img width=60% src="https://github.com/JNSFilipe/clairvoyant/blob/master/media/Clairvoyant.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![Build Status](https://travis-ci.org/JNSFilipe/clairvoyant.svg?branch=master)](https://travis-ci.org/anfederico/clairvoyant)
+![Python](https://img.shields.io/badge/python-v3.10+-blue.svg)
+![Tests Status](https://github.com/JNSFilipe/clairvoyant/actions/workflows/python-app.yml/badge.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/JNSFilipe/clairvoyant.svg)](https://github.com/anfederico/clairvoyant/issues)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
