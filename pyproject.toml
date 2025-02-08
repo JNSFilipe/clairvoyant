@@ -10,4 +10,6 @@ dependencies = [
     "nose2>=0.15.1",
     "numpy>=2.2.2",
     "scikit-learn>=1.6.1",
+    "ta>=0.11.0",
+    "yfinance>=0.2.52",
 ]
