@@ -161,19 +161,6 @@ Total Trades : 350
 
 <img src="https://raw.githubusercontent.com/JNSFilipe/clairvoyant/master/media/Chart.png">
 
-## Other Projects
-#### Intensive Backtesting
-The primary purpose of this project is to rapidly test datasets on machine learning algorithms (specifically Support Vector Machines). While the Simulation class allows for basic strategy testing, there are other projects more suited for that task. Once you've tested patterns within your data and simulated a basic strategy, I'd recommend taking your model to the next level with:
-```text
-https://github.com/JNSFilipe/gemini
-```
-
-#### Social Sentiment Scores
-The examples shown use data derived from a project where we are data mining social media and performing stock sentiment analysis. To get an idea of how we do that, please take a look at:
-```text
-https://github.com/JNSFilipe/stocktalk
-```
-
 ## Notes
 #### Multivariate Functionality
 Remember, more is not always better!
